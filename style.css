@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+}
+h1{  
+    color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+img{
+    
+  padding: 15px;
+  border: 2px solid gray;
+  margin: 2px;
+  float: right;
+  
+}
+img:hover{
+    opacity:1 ;
+}
+.address{
+    font-style: italic;
+    text-align: left;
+    color: gray;
+
+}
+h2{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
+h3{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
+h4{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
+h5{
+    color: blue;
+    text-align: left;
+    font-style: italic;
+    font-size: 20px;
+}
